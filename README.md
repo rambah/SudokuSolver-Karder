@@ -1,2 +1,2 @@
 # SudokuSolver
-A simple Sudoku solver used for teaching.
+A simple Sudoku solver used for teaching Git(hub).
